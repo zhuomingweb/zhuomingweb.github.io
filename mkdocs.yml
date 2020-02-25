@@ -1,0 +1,43 @@
+site_name: 卓明
+nav:
+  - 正在响应: index.md
+  - 正在招募:
+    - 招募流程: recruit/process.md
+  - 历史响应:
+    - 时间轴: allRes/timeline.md
+  - 关于卓明: 
+    - 卓明简介: about/zhuoming.md
+    - 成员简介: about/members.md
+    - 运作方式: about/operation.md
+    - 媒体报道: about/news.md
+    - 友情链接: about/links.md
+  - 关于本站: 
+    - 协议: thisweb/license.md
+    - 提交建议: thisweb/advice.md
+  - 简报: responding/brief.md
+  - 信息组: responding/info.md
+  - 产品组: responding/product.md
+  - 需求组: responding/demand.md
+  - 核实组: responding/verify.md
+  - 翻译组: responding/trans.md
+
+copyright: 'Copyright &copy; 2010 - 2020 zhuoming'
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'white'
+    accent: 'white'
+  font:
+    text: 'Noto Serif SC'
+    code: 'Ubuntu Mono'
+  logo: 'images/logo.svg'
+  feature:
+    tabs: true
+
+extra:
+  social:
+    - type: 'weibo'
+      link: 'https://weibo.com/quakeinfo?topnav=1&wvr=6&topsug=1&is_hot=1'
+    - type: 'wechat'
+      link: ''
